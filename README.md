@@ -15,7 +15,7 @@ Berikut adalah catatan hasil pengujian tampilan antarmuka dan responsivitas apli
 | **TC-01** | Navigasi Menu | Mobile (360px – 480px) | Menu membungkus (*wrap*) rapi, tidak terpotong, teks terbaca proporsional | Sesuai ekspektasi | **Pass** | ![Bukti TC-01](assets/images/TC-01.png) |
 | **TC-02** | Hero Section | Breakpoint Tablet (768px) | Berubah dari susunan 1 kolom vertikal menjadi tata letak seimbang | Sesuai ekspektasi | **Pass** | ![Bukti TC-02](assets/images/TC-02.png) |
 | **TC-03** | Grid Katalog | Resize Dinamis (360px – 1920px) | Kolom bertambah otomatis secara *fluid* tanpa kemunculan *horizontal scrollbar* | Sesuai ekspektasi | **Pass** | ![Bukti TC-03-v1](assets/images/TC-03.png) |
-| **TC-04** | Navigasi Keyboard | Papan Ketik (Tombol Tab) | *Skip-link* muncul di sudut kiri atas saat menerima fokus | Sesuai ekspektasi | **Pass** | ![Bukti TC-04](assets/images/TC-04.png) |
+| **TC-04** | Navigasi Keyboard | Papan Ketik (Tombol Tab) | *Skip-link* muncul di sudut kiri atas saat menerima fokus | Sesuai ekspektasi | **Pass** | ![Bukti TC-04](assets/images/TC-04.jpeg) |
 
 ---
 
